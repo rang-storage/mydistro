@@ -1,0 +1,2 @@
+# mydistro
+distro for termux
